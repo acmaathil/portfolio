@@ -66,7 +66,7 @@ Designed an **interactive Power BI dashboard** connected to MySQL.
 
 ## 📬 Contact
 - 📧 Email: [aathilabdulcader@gmail.com](mailto:aathilabdulcader@gmail.com)
-- 🔗 LinkedIn: [www.linkedin.com/in/mohammed-aathil-abdul-cader](www.linkedin.com/in/mohammed-aathil-abdul-cader)
+- 🔗 LinkedIn: [linkedin.com/in/mohammed-aathil-abdul-cader](https://linkedin.com/in/mohammed-aathil-abdul-cader)
 
 ---
 
