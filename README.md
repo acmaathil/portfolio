@@ -15,6 +15,38 @@ I am passionate about solving complex problems and leveraging data to drive busi
 
 ## 📂 Projects
 
+### 🔹 [Sales Insights Dashboard (Power BI)](https://github.com/acmaathil/sales-insights-powerbi)
+Designed an **interactive Power BI dashboard** connected to MySQL.  
+- Analyzed revenue trends, product categories, and regional sales.  
+- Enabled drill-down analysis and dynamic filtering.  
+- Delivered actionable insights for business decisions.
+
+---
+
+### 🔹 [HR Attendance Insights Dashboard (Power BI)](https://github.com/acmaathil/hr-attendance-insights-powerbi)
+Developed an **HR analytics dashboard** in Power BI to monitor workforce presence.  
+- Tracked Attendance %, Work-from-Home %, and Sick Leave %.  
+- Analyzed daily/weekly/monthly attendance trends across employees.  
+- Supported HR teams in identifying patterns for workforce planning.  
+
+---
+
+### 🔹 [Hospitality Performance Dashboard (Power BI)](https://github.com/acmaathil/hospitality-performance-dashboard-powerbi)
+Built a **hospitality analytics dashboard** in Power BI to track hotel performance.  
+- Designed KPIs for Revenue, RevPAR, Occupancy %, ADR, and Realisation %.  
+- Added property-level and city-level breakdowns with trend analysis.  
+- Helped evaluate booking platforms and optimize business performance.
+
+---
+
+### 🔹 [Personal Finance Dashboard (Power BI)](https://github.com/acmaathil/personal-finance-dashboard-powerbi)
+Created a **Power BI dashboard** to analyze income, expenses, savings, and net worth.  
+- Built KPIs for income, expense %, savings %, and net worth growth.  
+- Visualized spending breakdown by categories and savings distribution.  
+- Enabled insights for better financial planning and budgeting.
+
+---
+
 ### 🔹 [Federated Learning for Telecom Congestion Prediction](https://github.com/acmaathil/federated-learning-telecom-congestion)
 Built centralized and federated ML models using **LightGBM** and **Flower** to predict **4G/5G network congestion**.  
 - Compared centralized vs federated setups.  
@@ -35,15 +67,7 @@ Developed a **multi-dimensional NLP framework** to evaluate news articles on **S
 Applied multiple ML algorithms on the **WBCD dataset** to classify tumors.  
 - Compared Logistic Regression, Decision Tree, SVM, Naive Bayes.  
 - **SVM achieved 96%+ accuracy**.  
-- Clear performance visualization with confusion matrices.  
-
----
-
-### 🔹 [Sales Insights Dashboard (Power BI)](https://github.com/acmaathil/sales-insights-powerbi)
-Designed an **interactive Power BI dashboard** connected to MySQL.  
-- Analyzed revenue trends, product categories, and regional sales.  
-- Enabled drill-down analysis and dynamic filtering.  
-- Delivered actionable insights for business decisions.  
+- Clear performance visualization with confusion matrices.    
 
 ---
 
