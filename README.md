@@ -23,14 +23,6 @@ Designed an **interactive Power BI dashboard** connected to MySQL.
 
 ---
 
-### 🔹 [HR Attendance Insights Dashboard (Power BI)](https://github.com/acmaathil/hr-attendance-insights-powerbi)
-Developed an **HR analytics dashboard** in Power BI to monitor workforce presence.  
-- Tracked Attendance %, Work-from-Home %, and Sick Leave %.  
-- Analyzed daily/weekly/monthly attendance trends across employees.  
-- Supported HR teams in identifying patterns for workforce planning.  
-
----
-
 ### 🔹 [Hospitality Performance Dashboard (Power BI)](https://github.com/acmaathil/hospitality-performance-dashboard-powerbi)
 Built a **hospitality analytics dashboard** in Power BI to track hotel performance.  
 - Designed KPIs for Revenue, RevPAR, Occupancy %, ADR, and Realisation %.  
@@ -39,11 +31,27 @@ Built a **hospitality analytics dashboard** in Power BI to track hotel performan
 
 ---
 
+### 🔹 [HR Attendance Insights Dashboard (Power BI)](https://github.com/acmaathil/hr-attendance-insights-powerbi)
+Developed an **HR analytics dashboard** in Power BI to monitor workforce presence.  
+- Tracked Attendance %, Work-from-Home %, and Sick Leave %.  
+- Analyzed daily/weekly/monthly attendance trends across employees.  
+- Supported HR teams in identifying patterns for workforce planning.
+
+---
+
 ### 🔹 [Personal Finance Dashboard (Power BI)](https://github.com/acmaathil/personal-finance-dashboard-powerbi)
 Created a **Power BI dashboard** to analyze income, expenses, savings, and net worth.  
 - Built KPIs for income, expense %, savings %, and net worth growth.  
 - Visualized spending breakdown by categories and savings distribution.  
 - Enabled insights for better financial planning and budgeting.
+
+---
+
+### 🔹 [T20 World Cup 2022 Player Performance Dashboard (Power BI)](https://github.com/acmaathil/t20-cricket-analytics-dashboard-powerbi)
+Developed a **Power BI dashboard** analyzing player performance in the **T20 World Cup 2022**.  
+- Created KPIs for batting, bowling, and overall performance (Strike Rate, Batting Avg, Boundary %, Economy).  
+- Designed role-based tabs: Power Hitters, Anchors, Finishers, All-Rounders, and Bowlers.  
+- Enabled interactive comparison of top players across multiple dimensions.  
 
 ---
 
@@ -72,10 +80,9 @@ Applied multiple ML algorithms on the **WBCD dataset** to classify tumors.
 ---
 
 ## 🛠 Skills
-- **Programming:** Python, R, SQL, NoSQL  
+- **Programming:** Python, R, SQL
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch  
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Big Data:** Hadoop, Spark  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Statistics:** Regression, Hypothesis Testing, Descriptive Analysis  
 
 ---
