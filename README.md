@@ -90,7 +90,7 @@ Applied multiple ML algorithms on the **WBCD dataset** to classify tumors.
 
 ## 📬 Contact
 - 📧 Email: [aathilabdulcader@gmail.com](mailto:aathilabdulcader@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/mohammed-aathil-abdul-cader](https://linkedin.com/in/mohammed-aathil-abdul-cader)
+- 🔗 LinkedIn: [Mohammed Aathil Abdul Cader](https://linkedin.com/in/mohammed-aathil-abdul-cader)
 
 ---
 
