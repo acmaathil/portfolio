@@ -1,4 +1,4 @@
-# 🎓 Data Scientist | Data Analyst
+# 🎓 Data Analyst
 💡 Skilled in Python, SQL, Power BI, Machine Learning & Data Analytics  
 📍 Open to opportunities in Data Science, Analytics, and BI  
 
